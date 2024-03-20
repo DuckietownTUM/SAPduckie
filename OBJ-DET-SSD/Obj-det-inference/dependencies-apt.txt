@@ -1,0 +1,6 @@
+# LIST YOUR APT PACKAGES HERE
+software-properties-common
+wget
+apt-transport-https
+gcc
+ros-noetic-image-geometry
