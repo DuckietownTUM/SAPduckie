@@ -1,0 +1,3 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/led_joy_mapper.pc
+Symlinking /code/catkin_ws/devel/share/led_joy_mapper/cmake/led_joy_mapperConfig.cmake
+Symlinking /code/catkin_ws/devel/share/led_joy_mapper/cmake/led_joy_mapperConfig-version.cmake

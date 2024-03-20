@@ -1,0 +1,5 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/anti_instagram.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/anti_instagram/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/anti_instagram_tests/__init__.py
+Symlinking /code/catkin_ws/devel/share/anti_instagram/cmake/anti_instagramConfig.cmake
+Symlinking /code/catkin_ws/devel/share/anti_instagram/cmake/anti_instagramConfig-version.cmake

@@ -1,0 +1,1 @@
+/code/catkin_ws/devel/.private/pi_camera/share/pi_camera/cmake/pi_cameraConfig-version.cmake

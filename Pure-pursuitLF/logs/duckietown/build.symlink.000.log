@@ -1,0 +1,6 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/duckietown.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_utils_tests/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_utils/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/duckietown/__init__.py
+Symlinking /code/catkin_ws/devel/share/duckietown/cmake/duckietownConfig.cmake
+Symlinking /code/catkin_ws/devel/share/duckietown/cmake/duckietownConfig-version.cmake

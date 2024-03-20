@@ -1,0 +1,9 @@
+Symlinking /code/catkin_ws/devel/lib/libapriltag_detector.so
+Symlinking /code/catkin_ws/devel/lib/libapriltag_detector_nodelet.so
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/apriltags_ros.pc
+Symlinking /code/catkin_ws/devel/lib/apriltags_ros/apriltag_detector_node
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/apriltags_ros/__init__.py
+Symlinking /code/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_rosConfig-version.cmake
+Symlinking /code/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_rosConfig.cmake
+Symlinking /code/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_ros-msg-extras.cmake
+Symlinking /code/catkin_ws/devel/share/apriltags_ros/cmake/apriltags_ros-msg-paths.cmake

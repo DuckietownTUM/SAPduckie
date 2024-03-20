@@ -1,0 +1,5 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/easy_node.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/easy_node_tests/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/easy_node/__init__.py
+Symlinking /code/catkin_ws/devel/share/easy_node/cmake/easy_nodeConfig.cmake
+Symlinking /code/catkin_ws/devel/share/easy_node/cmake/easy_nodeConfig-version.cmake

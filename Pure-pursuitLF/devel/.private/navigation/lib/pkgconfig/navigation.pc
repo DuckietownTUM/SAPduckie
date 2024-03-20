@@ -1,0 +1,8 @@
+prefix=/code/catkin_ws/devel/.private/navigation
+
+Name: navigation
+Description: Description of navigation
+Version: 1.0.0
+Cflags: -I/code/catkin_ws/devel/.private/navigation/include
+Libs: -L/code/catkin_ws/devel/.private/navigation/lib 
+Requires: message_runtime

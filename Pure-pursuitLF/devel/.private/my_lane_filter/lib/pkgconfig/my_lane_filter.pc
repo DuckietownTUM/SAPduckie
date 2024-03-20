@@ -1,0 +1,8 @@
+prefix=/code/catkin_ws/devel/.private/my_lane_filter
+
+Name: my_lane_filter
+Description: Description of my_lane_filter
+Version: 1.0.0
+Cflags: 
+Libs: -L/code/catkin_ws/devel/.private/my_lane_filter/lib 
+Requires: 

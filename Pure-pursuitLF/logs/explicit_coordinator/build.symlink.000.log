@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/explicit_coordinator.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/vehcoordinator/__init__.py
+Symlinking /code/catkin_ws/devel/share/explicit_coordinator/cmake/explicit_coordinatorConfig.cmake
+Symlinking /code/catkin_ws/devel/share/explicit_coordinator/cmake/explicit_coordinatorConfig-version.cmake

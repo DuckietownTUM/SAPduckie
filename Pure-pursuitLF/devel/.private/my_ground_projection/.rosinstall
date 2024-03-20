@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /code/catkin_ws/devel/.private/my_ground_projection/setup.sh

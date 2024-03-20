@@ -1,0 +1,8 @@
+prefix=/code/catkin_ws/devel/.private/duckiebot_detection
+
+Name: duckiebot_detection
+Description: Description of duckiebot_detection
+Version: 1.0.0
+Cflags: 
+Libs: -L/code/catkin_ws/devel/.private/duckiebot_detection/lib 
+Requires: 

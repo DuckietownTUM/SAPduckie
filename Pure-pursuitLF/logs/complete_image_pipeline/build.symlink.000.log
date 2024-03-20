@@ -1,0 +1,9 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/complete_image_pipeline.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_segmaps_tests/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/complete_image_pipeline_tests/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/localization_templates_tests/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/localization_templates/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/duckietown_segmaps/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/complete_image_pipeline/__init__.py
+Symlinking /code/catkin_ws/devel/share/complete_image_pipeline/cmake/complete_image_pipelineConfig.cmake
+Symlinking /code/catkin_ws/devel/share/complete_image_pipeline/cmake/complete_image_pipelineConfig-version.cmake

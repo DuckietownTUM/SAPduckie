@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/virtual_joystick.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/virtual_joystick/__init__.py
+Symlinking /code/catkin_ws/devel/share/virtual_joystick/cmake/virtual_joystickConfig.cmake
+Symlinking /code/catkin_ws/devel/share/virtual_joystick/cmake/virtual_joystickConfig-version.cmake

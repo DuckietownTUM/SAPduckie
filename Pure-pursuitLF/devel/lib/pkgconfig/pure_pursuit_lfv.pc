@@ -1,0 +1,1 @@
+/code/catkin_ws/devel/.private/pure_pursuit_lfv/lib/pkgconfig/pure_pursuit_lfv.pc

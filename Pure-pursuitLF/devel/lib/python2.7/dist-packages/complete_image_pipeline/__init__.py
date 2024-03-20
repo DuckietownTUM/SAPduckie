@@ -1,0 +1,1 @@
+/code/catkin_ws/devel/.private/complete_image_pipeline/lib/python2.7/dist-packages/complete_image_pipeline/__init__.py

@@ -1,0 +1,5 @@
+Symlinking /code/catkin_ws/devel/share/pure_pursuit_lfv/cmake/pure_pursuit_lfvConfig-version.cmake
+Symlinking /code/catkin_ws/devel/share/pure_pursuit_lfv/cmake/pure_pursuit_lfvConfig.cmake
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/pure_pursuit/__init__.py
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/pure_pursuit_lfv/__init__.py
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/pure_pursuit_lfv.pc

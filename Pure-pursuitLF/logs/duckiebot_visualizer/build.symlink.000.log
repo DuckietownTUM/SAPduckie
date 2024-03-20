@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/duckiebot_visualizer.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/duckiebot_visualizer/__init__.py
+Symlinking /code/catkin_ws/devel/share/duckiebot_visualizer/cmake/duckiebot_visualizerConfig.cmake
+Symlinking /code/catkin_ws/devel/share/duckiebot_visualizer/cmake/duckiebot_visualizerConfig-version.cmake

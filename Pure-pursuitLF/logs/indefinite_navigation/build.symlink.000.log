@@ -1,0 +1,3 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/indefinite_navigation.pc
+Symlinking /code/catkin_ws/devel/share/indefinite_navigation/cmake/indefinite_navigationConfig-version.cmake
+Symlinking /code/catkin_ws/devel/share/indefinite_navigation/cmake/indefinite_navigationConfig.cmake

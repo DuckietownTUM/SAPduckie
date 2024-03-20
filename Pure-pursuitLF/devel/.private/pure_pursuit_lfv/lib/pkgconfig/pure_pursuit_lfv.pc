@@ -1,0 +1,8 @@
+prefix=/code/catkin_ws/devel/.private/pure_pursuit_lfv
+
+Name: pure_pursuit_lfv
+Description: Description of pure_pursuit_lfv
+Version: 1.0.0
+Cflags: 
+Libs: -L/code/catkin_ws/devel/.private/pure_pursuit_lfv/lib 
+Requires: 

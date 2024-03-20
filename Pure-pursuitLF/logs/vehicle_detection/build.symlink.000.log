@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/vehicle_detection.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/vehicle_detection/__init__.py
+Symlinking /code/catkin_ws/devel/share/vehicle_detection/cmake/vehicle_detectionConfig-version.cmake
+Symlinking /code/catkin_ws/devel/share/vehicle_detection/cmake/vehicle_detectionConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/code/catkin_ws/devel/.private/apriltags2
+
+Name: apriltags2
+Description: Description of apriltags2
+Version: 0.9.8
+Cflags: -I/code/catkin_ws/src/dt-core/packages/apriltags2_ros/apriltags2/include
+Libs: -L/code/catkin_ws/devel/.private/apriltags2/lib -lapriltags2
+Requires: 

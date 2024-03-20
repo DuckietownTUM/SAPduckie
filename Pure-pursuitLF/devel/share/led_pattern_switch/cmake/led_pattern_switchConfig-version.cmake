@@ -1,0 +1,1 @@
+/code/catkin_ws/devel/.private/led_pattern_switch/share/led_pattern_switch/cmake/led_pattern_switchConfig-version.cmake

@@ -1,0 +1,4 @@
+Symlinking /code/catkin_ws/devel/lib/pkgconfig/fsm.pc
+Symlinking /code/catkin_ws/devel/lib/python2.7/dist-packages/fsm/__init__.py
+Symlinking /code/catkin_ws/devel/share/fsm/cmake/fsmConfig.cmake
+Symlinking /code/catkin_ws/devel/share/fsm/cmake/fsmConfig-version.cmake
